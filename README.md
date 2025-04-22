@@ -68,7 +68,10 @@ The application uses a Retrieval-Augmented Generation (RAG) pipeline for both re
 - **Post-processing**: Validation and cleaning of LLM outputs before user presentation
 
 ## 👥 Project Team
+<a href="https://github.com/Astroid45/GenAI-FinalProject/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Astroid45/GenAI-FinalProject" />
+</a>
 
-- Xaiver Rogers - GitHub(Astroid45)
-- Aditya Pola - GitHub()
-- Cameron Warren - GitHub()
+Made with [contrib.rocks](https://contrib.rocks)
+
+
